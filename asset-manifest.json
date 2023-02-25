@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/css/main.5b1ffe7d.css",
-    "main.js": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/js/main.0e9fce6f.js",
-    "static/js/787.4a5f9ec1.chunk.js": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js",
-    "index.html": "/https//Nathamuni.github.io/Synergy-Live-Editor/index.html",
-    "main.5b1ffe7d.css.map": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/css/main.5b1ffe7d.css.map",
-    "main.0e9fce6f.js.map": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/js/main.0e9fce6f.js.map",
-    "787.4a5f9ec1.chunk.js.map": "/https//Nathamuni.github.io/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js.map"
+    "main.css": "/Nathamuni/Synergy-Live-Editor/static/css/main.5b1ffe7d.css",
+    "main.js": "/Nathamuni/Synergy-Live-Editor/static/js/main.32d79e9b.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/Nathamuni/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/Nathamuni/Synergy-Live-Editor/index.html",
+    "main.5b1ffe7d.css.map": "/Nathamuni/Synergy-Live-Editor/static/css/main.5b1ffe7d.css.map",
+    "main.32d79e9b.js.map": "/Nathamuni/Synergy-Live-Editor/static/js/main.32d79e9b.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/Nathamuni/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1ffe7d.css",
-    "static/js/main.0e9fce6f.js"
+    "static/js/main.32d79e9b.js"
   ]
 }

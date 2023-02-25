@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Nathamuni/Synergy-Live-Editor/static/css/main.5b1ffe7d.css",
-    "main.js": "/Nathamuni/Synergy-Live-Editor/static/js/main.32d79e9b.js",
-    "static/js/787.4a5f9ec1.chunk.js": "/Nathamuni/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js",
-    "index.html": "/Nathamuni/Synergy-Live-Editor/index.html",
-    "main.5b1ffe7d.css.map": "/Nathamuni/Synergy-Live-Editor/static/css/main.5b1ffe7d.css.map",
-    "main.32d79e9b.js.map": "/Nathamuni/Synergy-Live-Editor/static/js/main.32d79e9b.js.map",
-    "787.4a5f9ec1.chunk.js.map": "/Nathamuni/Synergy-Live-Editor/static/js/787.4a5f9ec1.chunk.js.map"
+    "main.css": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/css/main.5b1ffe7d.css",
+    "main.js": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/js/main.2393e5d2.js",
+    "static/js/787.4a5f9ec1.chunk.js": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/js/787.4a5f9ec1.chunk.js",
+    "index.html": "/Nathamuni/Synergy-Live-Editor/public/index.html/index.html",
+    "main.5b1ffe7d.css.map": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/css/main.5b1ffe7d.css.map",
+    "main.2393e5d2.js.map": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/js/main.2393e5d2.js.map",
+    "787.4a5f9ec1.chunk.js.map": "/Nathamuni/Synergy-Live-Editor/public/index.html/static/js/787.4a5f9ec1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5b1ffe7d.css",
-    "static/js/main.32d79e9b.js"
+    "static/js/main.2393e5d2.js"
   ]
 }
